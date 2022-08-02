@@ -1,0 +1,52 @@
+{
+    "main": {
+        "title": "Quiero convertir...",
+        "saludo": "Hola!",
+        "general": {
+            "login": "Entrar",
+            "logout": "Salir",
+            "username": "Usuario",
+            "password": "Password"
+        },
+        "error": {
+            "empty-username": "Nombre de usuario no puede estar vacío!",
+            "empty-password": "Contraseña de usuario no puede estar vacía!",
+            "invalid-credentials": "Usuario o contraseña inválidos!",
+            "no-history": "No hay historial que mostrar!",
+            "no-data": "No hay datos en el intervalo seleccionado!"
+        },
+        "nav": {
+            "currency": "Moneda",
+            "exchange": "Cambio",
+            "currency-exchange": "CAMBIO ACTUAL",
+            "view-exchange-history": "VER HISTORIAL DE CAMBIOS"
+        },
+        "exchange-field": {
+            "amount": "Cantidad",
+            "from": "De",
+            "to": "A",
+            "convert": "CONVERTIR"
+        },
+        "tables": {
+            "exchange-history": "Historial de cambios",
+            "duration": "Duración",
+            "all": "Todo",
+            "days": "Días",
+            "date": "Fecha",
+            "exchange-rate": "Tipo de cammbio",
+            "statistics": "Estadísticas",
+            "lowest": "Menor",
+            "highest": "Mayor",
+            "average": "Promedio",
+            "conversion-history": "Historial de conversiones",
+            "event": "Evento",
+            "actions": "Acciones",
+            "view": "Ver",
+            "delete": "Eliminar del histórico",
+            "converted-an-amount-of": "Convertida una cantidad de",
+            "from": "desde",
+            "to": "a"
+        }
+    }
+}
+

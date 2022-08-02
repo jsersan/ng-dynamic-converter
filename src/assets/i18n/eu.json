@@ -1,0 +1,52 @@
+{
+    "main": {
+        "title": "Aldatu nahi dut...",
+        "saludo": "Kaixo!",
+        "general": {
+            "login": "Sartu",
+            "logout": "Irten",
+            "username": "Erabiltzailea",
+            "password": "Pasahitza"
+        },
+        "error": {
+            "empty-username": "Erabiltzaile-izena ezin da hutsik egon!",
+            "empty-password": "Erabiltzaile-pasahitza ezin da hutsik egon!",
+            "invalid-credentials": "Erabiltzailea edo pasahitza baliogabeak!",
+            "no-history": "Ez dago historialik erakusteko!",
+            "no-data": "Ez dago daturik hautatutako tartean!"
+        },
+        "nav": {
+            "currency": "Dirua",
+            "exchange": "Aldaketa",
+            "currency-exchange": "ORAINGO ALDAKETA",
+            "view-exchange-history": "IKUS ALDAKETEN HISTORIA"
+        },
+        "exchange-field": {
+            "amount": "Kantitatea",
+            "from": "nondik",
+            "to": "nora",
+            "convert": "ALDATU"
+        },
+        "tables": {
+            "exchange-history": "Aldaketen historia",
+            "duration": "Epea",
+            "all": "Dana",
+            "days": "Egunak",
+            "date": "Data",
+            "exchange-rate": "Kanbio-tasa",
+            "statistics": "Estatistikak",
+            "lowest": "Txikinena",
+            "highest": "Handiena",
+            "average": "Batez-bestekoa",
+            "conversion-history": "Aldaketen historia",
+            "event": "Gertaera",
+            "actions": "Ekintzak",
+            "view": "Ikusi",
+            "delete": "Ezabatu historikotik",
+            "converted-an-amount-of": "Kopuru bat bihurtuta",
+            "from": "Nondik",
+            "to": "Nora"
+        }
+    }
+}
+
